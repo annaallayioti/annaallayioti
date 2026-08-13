@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hi, I'm Anna
 
-<!--
-**annaallayioti/annaallayioti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm an Electrical & Computer Engineer and currently an MSc student in Data Science & AI at the National and Kapodistrian University of Athens.
 
-Here are some ideas to get you started:
+I'm interested in machine learning, deep learning, data science, and large language models. For my MSc thesis, I'm currently working on improving table understanding and retrieval for Retrieval-Augmented Generation (RAG) over tabular data.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Technologies
+
+Python • PyTorch • TensorFlow • scikit-learn • Pandas • NumPy • OpenCV • Transformers
+
+## Featured Projects
+
+- **Fuzzy Data Lake Table Integration** — fuzzy and semantic matching using LLMs and embeddings
+- **Chest X-Ray Pneumonia Classification** — classical ML, CNNs, and EfficientNetB0
+- **Stock Price Forecasting** — multi-step forecasting using RNN and GRU models
