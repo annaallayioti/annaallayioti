@@ -1,6 +1,6 @@
 # Hi, I'm Anna
 
-I'm an Electrical & Computer Engineer and currently an MSc student in Data Science & AI at the National and Kapodistrian University of Athens.
+I'm an Electrical & Computer Engineer currently pursuing an MSc in Data Science & AI at the National and Kapodistrian University of Athens.
 
 I'm interested in machine learning, deep learning, data science, and large language models. For my MSc thesis, I'm currently working on improving table understanding and retrieval for Retrieval-Augmented Generation (RAG) over tabular data.
 
