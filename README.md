@@ -1,17 +1,19 @@
 # Hi, I'm Anna
 
-I'm an Electrical & Computer Engineer and currently an MSc student in Data Science & AI at the National and Kapodistrian University of Athens.
+I'm an Electrical & Computer Engineer and currently an MSc student in Data Science & Information Technologies, specializing in Artificial Intelligence, at the National and Kapodistrian University of Athens.
 
-I'm interested in machine learning, deep learning, data science, and large language models. For my MSc thesis, I'm currently working on improving table understanding and retrieval for Retrieval-Augmented Generation (RAG) over tabular data.
+I'm interested in machine learning, large language models, and data science. For my MSc thesis, I'm currently working on improving table understanding and retrieval for Retrieval-Augmented Generation (RAG) over tabular data.
 
-I'm open to entry-level opportunities in Machine Learning and Data Science.
+I'm open to entry-level opportunities in AI, Machine Learning, and Data Science.
 
 ## Technologies
 
-**ML & Deep Learning:** PyTorch, TensorFlow, scikit-learn  
-**Data:** Pandas, NumPy  
-**NLP & LLMs:** Transformers  
-**Computer Vision:** OpenCV
+**Programming:** Python, SQL, C++, SPARQL, MATLAB  
+**LLMs & NLP:** RAG, Hugging Face Transformers, embeddings, semantic search, fine-tuning  
+**ML & Deep Learning:** PyTorch, TensorFlow/Keras, scikit-learn  
+**Data & Knowledge Graphs:** pandas, NumPy, Parquet, RDF, GraphDB  
+**Computer Vision:** OpenCV, scikit-image  
+**Tools:** Git, Jupyter, Google Colab, Kaggle
 
 ## Featured Projects
 
