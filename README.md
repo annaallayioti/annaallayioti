@@ -8,7 +8,7 @@ I'm open to entry-level opportunities in AI, Machine Learning, and Data Science.
 
 ## Technologies
 
-**Programming:** Python, SQL, C++, SPARQL, MATLAB  
+**Programming:** Python, SQL, C++, MATLAB  
 **LLMs & NLP:** RAG, Hugging Face Transformers, embeddings, semantic search, fine-tuning  
 **ML & Deep Learning:** PyTorch, TensorFlow/Keras, scikit-learn  
 **Data & Knowledge Graphs:** pandas, NumPy, Parquet, RDF, GraphDB  
